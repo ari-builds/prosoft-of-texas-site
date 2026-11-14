@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ari-builds.github.io/prosoft-of-texas-site/sitemap.xml
