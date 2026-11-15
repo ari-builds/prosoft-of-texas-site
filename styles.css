@@ -232,8 +232,9 @@ p{margin:0}
   background:var(--sand);
   box-shadow:0 40px 70px -50px rgba(13,39,52,.6);
 }
-.hero__fig img{width:100%;aspect-ratio:4/3.35;object-fit:cover;transition:transform 1.2s var(--ease)}
-.hero__fig:hover img{transform:scale(1.03)}
+.hero__fig img,.hero__fig video{width:100%;aspect-ratio:4/3.35;object-fit:cover;transition:transform 1.2s var(--ease);display:block}
+.hero__fig:hover img,.hero__fig:hover video{transform:scale(1.03)}
+.hero__fig video{height:100%}
 .hero__card{
   position:relative;z-index:2;
   display:flex;align-items:center;gap:12px;
