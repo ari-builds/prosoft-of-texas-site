@@ -96,7 +96,7 @@ const SERVICES = [
     title: 'Driveways & concrete',
     kicker: 'Surface restoration',
     short: 'Driveways, walkways, pool decks and patios brought back to an even, uniform finish.',
-    lede: 'Concrete should look the same colour from the street to the garage.',
+    lede: 'Concrete should look the same color from the street to the garage.',
     body: [
       'Houston clay, oak tannin and summer storms leave concrete stained and streaked. We pre-treat oil, rust and organic stains, then clean with a surface cleaner so the whole slab comes back evenly.',
       'Expansion joints and edges are detailed by hand, and the surrounding lawn, beds and fencing are rinsed before we leave. Sealing can be quoted separately once the concrete is dry.',
@@ -306,7 +306,7 @@ const METHODS = {
     label: 'Pressure washing',
     pressure: 'Higher pressure',
     icon: 'i-spray',
-    h: 'Bring hard surfaces back to one even colour.',
+    h: 'Bring hard surfaces back to one even color.',
     p: 'Concrete, pavers and aggregate need pressure — but they need an even pass, clean edges and the right pre-treatment. A surface cleaner gives a uniform finish instead of wand stripes.',
     good: ['Driveways and sidewalks', 'Patios and pool decks', 'Pavers and aggregate', 'Dumpster pads'],
     meter: 82,

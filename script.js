@@ -39,7 +39,7 @@
     },
     pressure: {
       kicker: 'Higher pressure + surface cleaner',
-      h: 'Bring hard surfaces back to one even colour.',
+      h: 'Bring hard surfaces back to one even color.',
       p: 'Concrete, pavers and aggregate need pressure — but they need an even pass, clean edges and the right pre-treatment. A surface cleaner gives a uniform finish instead of wand stripes.',
       good: ['Driveways and sidewalks', 'Patios and pool decks', 'Pavers and aggregate', 'Dumpster pads'],
       meter: 82,
