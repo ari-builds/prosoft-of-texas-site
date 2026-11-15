@@ -844,3 +844,11 @@ p{margin:0}
   .hero h1{font-size:2.35rem}
   .method__btn{font-size:12.5px;padding:8px 8px}
 }
+
+/* ---------- reel ---------- */
+.reel{display:grid;grid-template-columns:1fr;gap:18px}
+@media(min-width:900px){.reel{grid-template-columns:repeat(3,1fr)}}
+.reel__item{margin:0;background:var(--ink);border-radius:var(--r-lg);overflow:hidden}
+.reel__item video{display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:cover;background:#000}
+.reel__item figcaption{padding:10px 14px;background:var(--paper);color:var(--ink-3);font-size:9px;letter-spacing:.12em;text-transform:uppercase}
+
