@@ -371,7 +371,7 @@ const home = `
         <h3 data-method-h>${METHODS.soft.h}</h3>
         <p data-method-p>${METHODS.soft.p}</p>
         <ul class="ticks" data-method-good>${METHODS.soft.good.map((g) => `<li><svg class="ico" aria-hidden="true"><use href="#i-check"/></svg>${g}</li>`).join('')}</ul>
-        <a class="btn btn--navy" href="contact/">Get this quoted <svg class="ico" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+        <a class="btn btn--navy" href="estimate/">Get this quoted <svg class="ico" aria-hidden="true"><use href="#i-arrow"/></svg></a>
       </div>
       <div class="method__meterbox">
         <span class="mono">Pressure level</span>
